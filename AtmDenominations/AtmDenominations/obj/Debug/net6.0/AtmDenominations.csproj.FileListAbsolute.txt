@@ -1,0 +1,15 @@
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\bin\Debug\net6.0\AtmDenominations.exe
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\bin\Debug\net6.0\AtmDenominations.deps.json
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\bin\Debug\net6.0\AtmDenominations.runtimeconfig.json
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\bin\Debug\net6.0\AtmDenominations.dll
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\bin\Debug\net6.0\AtmDenominations.pdb
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\AtmDenominations.csproj.AssemblyReference.cache
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\AtmDenominations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\AtmDenominations.AssemblyInfoInputs.cache
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\AtmDenominations.AssemblyInfo.cs
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\AtmDenominations.csproj.CoreCompileInputs.cache
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\AtmDenominations.dll
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\refint\AtmDenominations.dll
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\AtmDenominations.pdb
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\AtmDenominations.genruntimeconfig.cache
+D:\Development\Coding\C#\AtmDenominations\AtmDenominations\obj\Debug\net6.0\ref\AtmDenominations.dll
